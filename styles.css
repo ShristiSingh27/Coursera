@@ -14,7 +14,7 @@ h1
    }
 
 section {
-	background-color: blue;
+	background-color: grey;
 	border: 1px solid black;
 	padding: 3%;
 	position: relative;
@@ -50,7 +50,7 @@ section {
 
 #p3
  {
- 	background-color: yellow;
+ 	background-color: blue;
 	border: 1px solid ;
 	color: black;
 	padding: 1px;
